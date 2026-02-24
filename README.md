@@ -1,9 +1,9 @@
 ## Hello there! 👋
 
 I'm currently a Computer Engineering student with a strong passion for technology, art, and game development.  
-I mainly work on web application development, and I enjoy building creative projects that combine both technical and artistic ideas.
+I mainly work on web application development.
 
-In my free time, I love exploring new technologies and working on personal projects to continuously improve my skills and expand my experience.
+If I have a free time, I wish my own project can continue(I mean Unfinished project)
 
 ---
 
