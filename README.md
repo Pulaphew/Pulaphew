@@ -80,10 +80,6 @@ If I have a free time, I wish my own project can continue(I mean Unfinished proj
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="36" height="36" alt="Vercel" />
 </a>
 
-<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" width="36" height="36" alt="Google Colab" />
-</a>
-
 <a href="https://dbeaver.io/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg" width="36" height="36" alt="DBeaver" />
 </a>
